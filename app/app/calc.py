@@ -1,5 +1,5 @@
 """
-Calvulator functions
+Calculator functions
 """
 
 
